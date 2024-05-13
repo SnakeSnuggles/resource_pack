@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "minecraft:block/dragon_egg",
+		"particle": "minecraft:block/dragon_egg"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 5],
+			"to": [11, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 6], "texture": "#0"},
+				"east": {"uv": [3.5, 0, 7, 6], "texture": "#0"},
+				"south": {"uv": [0, 6, 3.5, 12], "texture": "#0"},
+				"west": {"uv": [3.5, 6, 7, 12], "texture": "#0"},
+				"up": {"uv": [10.5, 3.5, 7, 0], "texture": "#0"},
+				"down": {"uv": [10.5, 3.5, 7, 7], "texture": "#0"}
+			}
+		}
+	]
+}
