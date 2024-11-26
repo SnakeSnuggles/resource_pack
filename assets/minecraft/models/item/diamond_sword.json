@@ -1,0 +1,6 @@
+{
+  "parent": "snake:item/blood_sword",
+  "textures": {
+      "layer0": "snake:item/blood_sword"
+  }
+}
